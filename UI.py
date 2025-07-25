@@ -68,7 +68,7 @@ source_map = {'Commodity': 0, 'Industry': 1}
 
 with col1:
     st.markdown('<div class="stCardTitle">Substance</div>', unsafe_allow_html=True)
-    substance = st.selectbox('', list(substance_map.keys()))
+    substance = st.selectbox('Select Substance', list(substance_map.keys()) , label_visibility="hidden")
     st.caption('🧪 Type of greenhouse gas')
 
 with col2:
