@@ -22,6 +22,11 @@ st.set_page_config(page_title="Emission Factor Studio", page_icon="🌿", layout
 st.markdown(
     """
     <style>
+        .stApp {
+            background: #000000;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        }
         .stCard {
             background: #439ba8;
             border-radius: 12px;
