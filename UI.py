@@ -22,11 +22,6 @@ st.set_page_config(page_title="Emission Factor Studio", page_icon="🌿", layout
 st.markdown(
     """
     <style>
-        .stApp {
-            background: #0f0c29;  /* fallback for old browsers */
-            background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-        }
         .stCard {
             background: #439ba8;
             border-radius: 12px;
@@ -145,10 +140,10 @@ else:
 st.markdown("""
 <hr>
 <div style="text-align:center; padding-top: 20px;">
-    <p style="font-size: 1.1em; color: white;">
+    <p style="font-size: 1.1em; color: #555;">
         Built with dedication and data by <strong>Aditya Raj</strong> 🚀
     </p>
-    <p style="font-size: 0.9em; color: white;">
+    <p style="font-size: 0.9em; color: #777;">
         An ECE Undergrad from Birla Institute of Technology, Mesra.
     </p>
     <p style="font-size: 1.0em; margin-top: 15px;">
