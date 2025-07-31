@@ -145,10 +145,10 @@ else:
 st.markdown("""
 <hr>
 <div style="text-align:center; padding-top: 20px;">
-    <p style="font-size: 1.1em; color: #555;">
+    <p style="font-size: 1.1em; color: white;">
         Built with dedication and data by <strong>Aditya Raj</strong> 🚀
     </p>
-    <p style="font-size: 0.9em; color: #777;">
+    <p style="font-size: 0.9em; color: white;">
         An ECE Undergrad from Birla Institute of Technology, Mesra.
     </p>
     <p style="font-size: 1.0em; margin-top: 15px;">
@@ -158,10 +158,10 @@ st.markdown("""
         <a href="https://www.instagram.com/adityar_a_j_?igsh=MTZicm1qejZmMWg4MQ==/" target="_blank" style="text-decoration: none; color: #C13584; margin: 0 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="20" height="20" style="vertical-align: middle;"> Instagram
         </a> |
-        <a href="https://aditya-r01.github.io/Portfolio-website/" target="_blank" style="text-decoration: none; color: #337ab7; margin: 0 10px;">
+        <a href="https://aditya-r01.github.io/Portfolio-website/" target="_blank" style="text-decoration: none; color: white; margin: 0 10px;">
             <img src="https://e7.pngegg.com/pngimages/875/395/png-clipart-internet-internet-security-earth-blue-globe-thumbnail.png" width="20" height="20" style="vertical-align: middle;"> My Portfolio
         </a> |
-        <a href="https://github.com/Aditya-R01/Predicting-Supply-Chain-Emission-Factors-with-Margins" target="_blank" style="text-decoration: none; color: #337ab7; margin: 0 10px;">
+        <a href="https://github.com/Aditya-R01/Predicting-Supply-Chain-Emission-Factors-with-Margins" target="_blank" style="text-decoration: none; color: white; margin: 0 10px;">
             <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="20" height="20" style="vertical-align: middle;"> View in GitHub
         </a>
     </p>
